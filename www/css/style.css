@@ -1,0 +1,114 @@
+body{
+	font-family: 'Trebuchet MS', sans-serif;
+	color: #fff;
+	background: #a7b8c4;
+}
+.headercontainer{
+	background: #2c3e50;
+	border-bottom: 2px solid #FFF;
+}
+h1{
+	margin: 0;
+}
+
+.header {
+	background: #2c3e50;
+	padding:25px 0 0 25px;
+	height:145px;
+	font-size: 28px;
+	width:975px;
+	margin: auto;
+}
+
+.logo, .title, .github, .twitter {
+	float: left;
+	display: block;
+}
+
+.logo {
+	margin: 10px 15px 15px 20px;
+}
+
+.title {
+	margin: 28px 5px 5px 5px;
+}
+
+.github {
+	margin: 45px 8px 5px 30px;
+}
+
+.twitter {
+	margin: 46px 5px 5px 5px;
+}
+
+.videocontainer{
+	width:700px;
+	height: 485px;
+	margin: 50px auto 75px auto;
+	background: #2c3e50;
+}
+
+.video1 {
+	padding-top:10px;
+	width:640px;
+	margin: auto;
+}
+
+.video1 iframe {
+	margin: auto;
+}
+h2 {
+	padding-top:10px;
+	width:640px;
+	margin: auto;
+	font-size:25px;
+}
+
+h3 {
+	padding-top:6px;
+	width:640px;
+	margin: auto;
+	font-size:16px;
+	font-weight:normal;
+}
+
+.details {
+	padding-top:10px;
+	width:640px;
+	margin: auto;
+	font-size:14px;
+	font-weight:normal;
+}
+.btn{
+	color: #FFF;
+	background: -webkit-linear-gradient(#c93547, #a6202b);
+	padding: 5px 5px;
+	margin: 5px 30px 0 0px;
+	border-radius: 5px;
+	text-transform:uppercase;
+	text-decoration:none;
+	float:right;
+	display: block;
+	
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
